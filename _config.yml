@@ -50,10 +50,9 @@ plainwhite:
 # - about.md
 
 # Build settings
-# theme: jekyll-theme-so-simple   <- 로컬 확인 시 반대로 해당 주석 해제
-remote_theme: mmistakes/so-simple-theme
+theme: plainwhite
 
 
 plugins:
   - jekyll-seo-tag
-#  - jekyll-feed
+  - jekyll-feed
