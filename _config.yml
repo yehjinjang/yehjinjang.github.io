@@ -24,8 +24,8 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    github:  https://github.com/yehjinjang
-    linkedIn: https://www.linkedin.com/in/yehjin-‍jang-5721a923a/
+    github: /yehjinjang
+    linkedIn: /in/yehjin-%E2%80%8Djang-5721a923a/
     #dribbble: jekyll
     #flickr:   jekyll
     instagram: yed.dy
